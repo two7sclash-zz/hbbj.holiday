@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:jwplayer="http://developer.longtailvideo.com/trac/wiki/FlashFormats" version="1">
+	<trackList>
+		<track>
+			<jwplayer:title>Isn't There Anyone</jwplayer:title>
+			<jwplayer:description>Charlie Brown</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/01__isnt_there_anyone_.m4a</jwplayer:file>
+		<jwplayer:duration>4</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Suddenly It's Christmas</jwplayer:title>
+			<jwplayer:description>Loudon Wainwright III</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/02_suddenly_its_christmas.m4a</jwplayer:file>
+		<jwplayer:duration>144</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Mele Kalikimaka (Hawaiian Christmas)</jwplayer:title>
+			<jwplayer:description>Bing Crosby</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/03_mele_kalikimaka_(hawaiian_christmas).mp3</jwplayer:file>
+		<jwplayer:duration>173</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Pretty Paper</jwplayer:title>
+			<jwplayer:description>Roy Orbison   </jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/04_pretty_paper.mp3</jwplayer:file>
+		<jwplayer:duration>168</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Fair Share</jwplayer:title>
+			<jwplayer:description>Sally Brown</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/05__fair_share_.m4a</jwplayer:file>
+		<jwplayer:duration>4</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>I Don't Intend To Spend Christmas Without You </jwplayer:title>
+			<jwplayer:description>Claudine Longet </jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/06_i_dont_intend_to_spend_christmas_without_you.mp3</jwplayer:file>
+		<jwplayer:duration>165</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>I Wish It Was Christmas Today</jwplayer:title>
+			<jwplayer:description>Julian Casablancas</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/07_i_wish_it_was_christmas_today_[bonus_track].mp3</jwplayer:file>
+		<jwplayer:duration>191</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Gotta Get Lucky For Xmas</jwplayer:title>
+			<jwplayer:description>Johnny Rabb</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/08_johnny_rabb_-_gotta_get_lucky_for_xmas.mp3</jwplayer:file>
+		<jwplayer:duration>150</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>A Merry Jingle</jwplayer:title>
+			<jwplayer:description>The Greedies</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/09_a_merry_jingle-_the_greedies.mp3</jwplayer:file>
+		<jwplayer:duration>188</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Christmas Time Is Here</jwplayer:title>
+			<jwplayer:description>Steve Vai</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/10_christmas_time_is_here.mp3</jwplayer:file>
+		<jwplayer:duration>262</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Eastern Syndicate</jwplayer:title>
+			<jwplayer:description>Lucy van Pelt</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/11__eastern_syndicate_.m4a</jwplayer:file>
+		<jwplayer:duration>8</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>White Christmas</jwplayer:title>
+			<jwplayer:description>Julian Koster</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/12_white_christmas.mp3</jwplayer:file>
+		<jwplayer:duration>159</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Let It Snow, Let It Snow, Let It Snow</jwplayer:title>
+			<jwplayer:description>Herb Alpert</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/13_let_it_snow_let_it_snow_let_it_snow.mp3</jwplayer:file>
+		<jwplayer:duration>225</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>We Free Kings</jwplayer:title>
+			<jwplayer:description>Rahsaan Roland Kirk Quartet</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/14_we_free_kings.m4a</jwplayer:file>
+		<jwplayer:duration>287</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Merry Christmas Baby</jwplayer:title>
+			<jwplayer:description>Jimmy McGriff</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/15_merry_christmas_baby.m4a</jwplayer:file>
+		<jwplayer:duration>276</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Real Estate</jwplayer:title>
+			<jwplayer:description>Lucy van Pelt</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/16__real_estate_.m4a</jwplayer:file>
+		<jwplayer:duration>18</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Santa</jwplayer:title>
+			<jwplayer:description>Lightnin' Hopkins</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/17_santa.mp3</jwplayer:file>
+		<jwplayer:duration>233</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Papa Ain't No Santa Clause, Mama Ain't No Christmas Tree</jwplayer:title>
+			<jwplayer:description>Butterbeans &amp; Susie</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/18_papa_aint_no_santa_clause_mama_aint_no_christmas_tree.m4a</jwplayer:file>
+		<jwplayer:duration>199</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Let Me Hang Your Stockings In Your Christmas Tree</jwplayer:title>
+			<jwplayer:description>Roosevelt Sykes</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/19_let_me_hang_your_stockings_in_your_christmas_tree.mp3</jwplayer:file>
+		<jwplayer:duration>177</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>God Rest Ye Merry Gentlemen Fantasy</jwplayer:title>
+			<jwplayer:description>John Fahey</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/20_god_rest_ye_merry_gentlemen_fantasy.mp3</jwplayer:file>
+		<jwplayer:duration>158</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Playing Shepherd</jwplayer:title>
+			<jwplayer:description>Shermy</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/21__playing_shepherd_.m4a</jwplayer:file>
+		<jwplayer:duration>5</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Let's Make Christmas Mean Something This Year, Pts. 1 &amp; 2</jwplayer:title>
+			<jwplayer:description>James Brown</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/22_lets_make_christmas_mean_something_this_year_pts_1_2.m4a</jwplayer:file>
+		<jwplayer:duration>392</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Christmas (Baby Please Come Home)</jwplayer:title>
+			<jwplayer:description>Darlene Love</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/23_christmas_(baby_please_come_home).mp3</jwplayer:file>
+		<jwplayer:duration>169</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Presents for Christmas</jwplayer:title>
+			<jwplayer:description>Solomon Burke</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/24_presents_for_christmas.m4a</jwplayer:file>
+		<jwplayer:duration>193</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Christmas In the City</jwplayer:title>
+			<jwplayer:description>Marvin Gaye</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/25_christmas_in_the_city.m4a</jwplayer:file>
+		<jwplayer:duration>195</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Wooden Trees</jwplayer:title>
+			<jwplayer:description>Linus van Pelt</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/26__wooden_trees_.m4a</jwplayer:file>
+		<jwplayer:duration>3</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>O Holy Night</jwplayer:title>
+			<jwplayer:description>Smoking Popes</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/27_o_holy_night.mp3</jwplayer:file>
+		<jwplayer:duration>185</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>If Christmas Can't Bring You Home</jwplayer:title>
+			<jwplayer:description>Reigning Sound</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/28_if_christmas_cant_bring_you_home.mp3</jwplayer:file>
+		<jwplayer:duration>148</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>Xmas (Baby, Please Come Home)</jwplayer:title>
+			<jwplayer:description>Arab Strap</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/29_xmas_(baby_please_come_home).mp3</jwplayer:file>
+		<jwplayer:duration>282</jwplayer:duration>
+</track>
+		<track>
+			<jwplayer:title>All About</jwplayer:title>
+			<jwplayer:description>Linus van Pelt</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2009/30__all_about_.m4a</jwplayer:file>
+		<jwplayer:duration>2</jwplayer:duration>
+</track>
+	</trackList>
+</playlist>

@@ -38,6 +38,12 @@ module.exports = {
     extend: {
       colors: {
         "neon-orange": "#f92300",
+        "dark-blue": "#1F2B5D",
+        "cream": "#F8FFF6",
+        "dark-red": "#D70023",
+        "teal": "#29AFBB",
+        "light-blue": "#B2DCF4",
+        "beige": "#D0B896"
       },
       fontSize: {
         "7xl": "4.5rem",
@@ -48,7 +54,7 @@ module.exports = {
       typography: (theme) => ({
         DEFAULT: {
           css: {
-            color: theme("colors.gray.800"),
+            color: theme("colors.dark-blue"),
             blockquote: {
               borderLeftColor: theme("colors.gray.700"),
             },
@@ -57,9 +63,6 @@ module.exports = {
             },
             "ul > li::before": {
               backgroundColor: theme("colors.gray.700"),
-            },
-            a: {
-              color: theme("colors.neon-orange"),
             },
           },
         },
@@ -75,9 +78,6 @@ module.exports = {
             },
             "ul > li::before": {
               backgroundColor: theme("colors.gray.300"),
-            },
-            a: {
-              color: theme("colors.yellow.500"),
             },
             h1: {
               color: theme("colors.gray.100"),

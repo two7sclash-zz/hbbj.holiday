@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:jwplayer="http://developer.longtailvideo.com/trac/wiki/FlashFormats" version="1">
+	<trackList>
+		<track>
+			<jwplayer:title>Now Sound of Christmas</jwplayer:title>
+			<jwplayer:description>The Free Design</jwplayer:description>
+			<jwplayer:duration>33</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/01_now_sound_of_christmas.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Jesus Christ</jwplayer:title>
+			<jwplayer:description>Big Star</jwplayer:description>
+			<jwplayer:duration>154</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/02_jesus_christ.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Carol of the Bells</jwplayer:title>
+			<jwplayer:description>The Bird and the Bee</jwplayer:description>
+			<jwplayer:duration>124</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/03_carol_of_the_bells.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>2000 Miles</jwplayer:title>
+			<jwplayer:description>Pretenders</jwplayer:description>
+			<jwplayer:duration>204</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/04_2000_miles.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Santa Claus Is Back In Town</jwplayer:title>
+			<jwplayer:description>Elvis Presley</jwplayer:description>
+			<jwplayer:duration>143</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/05_santa_claus_is_back_in_town.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Blues for Christmas</jwplayer:title>
+			<jwplayer:description>John Lee Hooker</jwplayer:description>
+			<jwplayer:duration>203</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/06_blues_for_christmas.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>White Christmas</jwplayer:title>
+			<jwplayer:description>Clyde McPhatter &amp; The Drifters</jwplayer:description>
+			<jwplayer:duration>159</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/07_white_christmas.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Christ Was Born On Christmas Morn</jwplayer:title>
+			<jwplayer:description>Frankie "Halfpint" Jaxon</jwplayer:description>
+			<jwplayer:duration>202</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/08_christ_was_born_on_christmas_morn.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>The Toys Gave a Party for Poppa Santa Claus</jwplayer:title>
+			<jwplayer:description>The Andrews Sisters &amp; Bing Crosby</jwplayer:description>
+			<jwplayer:duration>195</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/09_the_toys_gave_a_party_for_poppa_santa_claus.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Dance of the Sugar Plum Fairy</jwplayer:title>
+			<jwplayer:description>Hal Mooney and his Orchestra</jwplayer:description>
+			<jwplayer:duration>133</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/10_dance_of_the_sugar_plum_fairy.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>My Santa Daddy</jwplayer:title>
+			<jwplayer:description>Kay Martin</jwplayer:description>
+			<jwplayer:duration>162</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/11_my_santa_daddy.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Gettin Down For Xmas</jwplayer:title>
+			<jwplayer:description>Milly &amp; Silly</jwplayer:description>
+			<jwplayer:duration>206</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/12_gettin_down_for_xmas.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Frosty The Snow Man</jwplayer:title>
+			<jwplayer:description>The Candy Store</jwplayer:description>
+			<jwplayer:duration>147</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/13_frosty_the_snow_man.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>O Tannenbaum</jwplayer:title>
+			<jwplayer:description>Mirror Image</jwplayer:description>
+			<jwplayer:duration>163</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/14_o_tannenbaum.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Deck The Halls</jwplayer:title>
+			<jwplayer:description>The Moog Machine</jwplayer:description>
+			<jwplayer:duration>55</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/15_deck_the_halls.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>We Wish You A Merry Christmas</jwplayer:title>
+			<jwplayer:description>The Ventures</jwplayer:description>
+			<jwplayer:duration>120</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/16_we_wish_you_a_merry_christmas.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Feliz Navi-Nada</jwplayer:title>
+			<jwplayer:description>El Vez</jwplayer:description>
+			<jwplayer:duration>152</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/17_feliz_navi-nada.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Little Drummer Boy</jwplayer:title>
+			<jwplayer:description>The Dandy Warhols</jwplayer:description>
+			<jwplayer:duration>192</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/18_little_drummer_boy.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Countdown To Christmas</jwplayer:title>
+			<jwplayer:description>Glam Chops</jwplayer:description>
+			<jwplayer:duration>241</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/19_countdown_to_christmas.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Frosty's Beach Party</jwplayer:title>
+			<jwplayer:description>Barbary Coasters</jwplayer:description>
+			<jwplayer:duration>246</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/20_frosty's_beach_party.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>I Saw Mommy Kissing Santa Claus</jwplayer:title>
+			<jwplayer:description>Johnny Clarke </jwplayer:description>
+			<jwplayer:duration>160</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/21_i_saw_mommy_kissing_santa_claus.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>The Spirit of Christmas Yet to Come</jwplayer:title>
+			<jwplayer:description>The Church</jwplayer:description>
+			<jwplayer:duration>146</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/22_the_spirit_of_christmas_yet_to_come.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Winter Wonderland</jwplayer:title>
+			<jwplayer:description>Goldfrapp</jwplayer:description>
+			<jwplayer:duration>190</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/23_winter_wonderland.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>You're A Mean One Mr Grinch</jwplayer:title>
+			<jwplayer:description>Sixpence None The Richer</jwplayer:description>
+			<jwplayer:duration>186</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/24_you're_a_mean_one_mr_grinch.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>O Come, O Come, Emmanuel</jwplayer:title>
+			<jwplayer:description>Bodies of Water w/ No Small Kindness</jwplayer:description>
+			<jwplayer:duration>277</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/25_o_come_o_come_emmanuel.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Cold White Christmas</jwplayer:title>
+			<jwplayer:description>Casiotone for the Painfully Alone</jwplayer:description>
+			<jwplayer:duration>285</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/26_cold_white_christmas.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Long Way Around the Sea</jwplayer:title>
+			<jwplayer:description>Low</jwplayer:description>
+			<jwplayer:duration>279</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/27_long_way_around_the_sea.mp3</jwplayer:file>
+		</track>
+		<track>
+			<jwplayer:title>Adios</jwplayer:title>
+			<jwplayer:description>Esquivel</jwplayer:description>
+			<jwplayer:duration>48</jwplayer:duration>
+			<jwplayer:file>../mp3/xmasMix2008/28_adios.mp3</jwplayer:file>
+		</track>
+	</trackList>
+</playlist>

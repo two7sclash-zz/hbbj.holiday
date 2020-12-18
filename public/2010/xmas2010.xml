@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:jwplayer="http://developer.longtailvideo.com/trac/wiki/FlashFormats" version="1">
+  <trackList>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/01 Santa &amp; The Satellite Pt.1.m4a</jwplayer:file>
+      <jwplayer:description>Buchanan &amp; Goodman</jwplayer:description>
+      <jwplayer:title>Santa &amp; The Satellite Pt.1</jwplayer:title>
+      <jwplayer:duration>100</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/02 Have Yourself A Merry Little Chri.mp3</jwplayer:file>
+      <jwplayer:description>The Going Thing</jwplayer:description>
+      <jwplayer:title>Have Yourself A Merry Little Christmas</jwplayer:title>
+      <jwplayer:duration>164</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/03 Who Took The Merry Out Of Christm.mp3</jwplayer:file>
+      <jwplayer:description>The Staple Singers</jwplayer:description>
+      <jwplayer:title>Who Took The Merry Out Of Christmas?</jwplayer:title>
+      <jwplayer:duration>151</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/04 God Rest Ye Merry Gentlemen.mp3</jwplayer:file>
+      <jwplayer:description>Smokey Robinson &amp; the Miracles</jwplayer:description>
+      <jwplayer:title>God Rest Ye Merry Gentlemen</jwplayer:title>
+      <jwplayer:duration>185</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/05 Christmas Blues.mp3</jwplayer:file>
+      <jwplayer:description>Ramsey Lewis Trio</jwplayer:description>
+      <jwplayer:title>Christmas Blues</jwplayer:title>
+      <jwplayer:duration>170</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/06 Merry Christmas, Baby.mp3</jwplayer:file>
+      <jwplayer:description>Charles Brown &amp; Band</jwplayer:description>
+      <jwplayer:title>Merry Christmas, Baby</jwplayer:title>
+      <jwplayer:duration>175</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/07 Presents for Christmas.m4a</jwplayer:file>
+      <jwplayer:description>Solomon Burke</jwplayer:description>
+      <jwplayer:title>Presents for Christmas</jwplayer:title>
+      <jwplayer:duration>195</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/08 Sleighride.m4a</jwplayer:file>
+      <jwplayer:description>Lloyd Glenn</jwplayer:description>
+      <jwplayer:title>Sleighride</jwplayer:title>
+      <jwplayer:duration>160</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/09 Holiday On Skis.m4a</jwplayer:file>
+      <jwplayer:description>Al Caiola &amp; Riz Ortolani</jwplayer:description>
+      <jwplayer:title>Holiday On Skis</jwplayer:title>
+      <jwplayer:duration>152</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/10 Christmas Day.mp3</jwplayer:file>
+      <jwplayer:description>Detroit Junior</jwplayer:description>
+      <jwplayer:title>Christmas Day</jwplayer:title>
+      <jwplayer:duration>135</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/11 Baby, It's Cold Outside.m4a</jwplayer:file>
+      <jwplayer:description>Pearl Bailey &amp; Hot Lips Page</jwplayer:description>
+      <jwplayer:title>Baby, It's Cold Outside</jwplayer:title>
+      <jwplayer:duration>182</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/12 Twistin' Bells.m4a</jwplayer:file>
+      <jwplayer:description>Santo &amp; Johnny</jwplayer:description>
+      <jwplayer:title>Twistin' Bells</jwplayer:title>
+      <jwplayer:duration>141</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/13 Jingle Bells Part 2.mp3</jwplayer:file>
+      <jwplayer:description>Pastor T.L. Barrett</jwplayer:description>
+      <jwplayer:title>Jingle Bells Part 2</jwplayer:title>
+      <jwplayer:duration>191</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/14 Holy Babe (edit).mp3</jwplayer:file>
+      <jwplayer:description>Kelly Pace, Aaron Brown, Joe Green, Paul Hayes, Matthew Johnson</jwplayer:description>
+      <jwplayer:title>Holy Babe (edit)</jwplayer:title>
+      <jwplayer:duration>260</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/15 Santa &amp; The Satellite Pt.2.m4a</jwplayer:file>
+      <jwplayer:description>Buchanan &amp; Goodman</jwplayer:description>
+      <jwplayer:title>Santa &amp; The Satellite Pt.2</jwplayer:title>
+      <jwplayer:duration>84</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/16 Winter Wonderland.m4a</jwplayer:file>
+      <jwplayer:description>Ruth Welcome</jwplayer:description>
+      <jwplayer:title>Winter Wonderland</jwplayer:title>
+      <jwplayer:duration>139</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/17 We Four King (Little Drummer Boy).m4a</jwplayer:file>
+      <jwplayer:description>The Blue Hawaiians</jwplayer:description>
+      <jwplayer:title>We Four King (Little Drummer Boy)</jwplayer:title>
+      <jwplayer:duration>170</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/18 Noelle A Hawaii.m4a</jwplayer:file>
+      <jwplayer:description>Antena</jwplayer:description>
+      <jwplayer:title>Noelle A Hawaii</jwplayer:title>
+      <jwplayer:duration>207</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/19 Time of the Season.mp3</jwplayer:file>
+      <jwplayer:description>Best Coast, Wavves</jwplayer:description>
+      <jwplayer:title>Got Something for You</jwplayer:title>
+      <jwplayer:duration>119</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/20 Got Something for You.mp3</jwplayer:file>
+      <jwplayer:description>Isobel Campbell &amp; Mark Lanegan</jwplayer:description>
+      <jwplayer:title>Time of the Season</jwplayer:title>
+      <jwplayer:duration>268</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/21 Must Be Santa.m4a</jwplayer:file>
+      <jwplayer:description>Canned Heat</jwplayer:description>
+      <jwplayer:title>The Chipmunk Song</jwplayer:title>
+      <jwplayer:duration>187</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/22 The Chipmunk Song.m4a</jwplayer:file>
+      <jwplayer:description>Bob Dylan</jwplayer:description>
+      <jwplayer:title>Must Be Santa</jwplayer:title>
+      <jwplayer:duration>169</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/23 (I Want a) Rock and Roll Guitar.m4a</jwplayer:file>
+      <jwplayer:description>Johnny Preston</jwplayer:description>
+      <jwplayer:title>(I Want a) Rock and Roll Guitar</jwplayer:title>
+      <jwplayer:duration>195</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/24 One Of You (In Every Size).mp3</jwplayer:file>
+      <jwplayer:description>Marty Robbins</jwplayer:description>
+      <jwplayer:title>One Of You (In Every Size)</jwplayer:title>
+      <jwplayer:duration>103</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/25 Santy's Movin' On.m4a</jwplayer:file>
+      <jwplayer:description>Homer &amp; Jethro</jwplayer:description>
+      <jwplayer:title>Santy's Movin' On</jwplayer:title>
+      <jwplayer:duration>120</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/26 Rockin' Santa Claus.m4a</jwplayer:file>
+      <jwplayer:description>The Moods</jwplayer:description>
+      <jwplayer:title>Rockin' Santa Claus</jwplayer:title>
+      <jwplayer:duration>126</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/27 Santa Claus.mp3</jwplayer:file>
+      <jwplayer:description>Sonny Boy Williamson</jwplayer:description>
+      <jwplayer:title>Santa Claus</jwplayer:title>
+      <jwplayer:duration>163</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/28 In the Bleak Mid Winter.m4a</jwplayer:file>
+      <jwplayer:description>Bert Jansch</jwplayer:description>
+      <jwplayer:title>In the Bleak Mid Winter</jwplayer:title>
+      <jwplayer:duration>144</jwplayer:duration>
+    </track>
+    <track>
+      <jwplayer:file>../mp3/xmasMix2010/29 Happy New Year Blues.m4a</jwplayer:file>
+      <jwplayer:description>Mary Harris</jwplayer:description>
+      <jwplayer:title>Happy New Year Blues</jwplayer:title>
+      <jwplayer:duration>192</jwplayer:duration>
+    </track>
+  </trackList>
+</playlist>

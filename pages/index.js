@@ -1,24 +1,24 @@
 import Link from "next/link";
 
 import { Layout, Bio, SEO } from "@components/common";
-import { getSortedPosts } from "@utils/posts";
+import { getSortedMixes } from "@utils/mixes";
 
-export default function Home({ posts }) {
+export default function Home({ mixes }) {
   return (
     <Layout>
-      <SEO title="All posts" />
+      <SEO title="All mixes" />
       <Bio className="my-14" />
-      {posts.map(({ frontmatter: { title, description, date }, slug }) => (
+      {mixes.map(({ frontmatter: { title, description, date }, slug }) => (
         <article key={slug}>
           <header className="mb-2">
             <h3 className="mb-2">
-              <Link href={"/post/[slug]"} as={`/post/${slug}`}>
-                <a className="text-4xl font-bold text-yellow-600 font-display">
+              <Link href={"/mix/[slug]"} as={`/mix/${slug}`}>
+                <a className="text-4xl font-bold font-display text-dark-red dark:text-beige">
                   {title}
                 </a>
               </Link>
             </h3>
-            <span className="text-sm">{date}</span>
+            {/* <span className="text-sm">{date}</span> */}
           </header>
           <section>
             <p className="mb-8 text-lg">{description}</p>
@@ -30,11 +30,11 @@ export default function Home({ posts }) {
 }
 
 export async function getStaticProps() {
-  const posts = getSortedPosts();
+  const mixes = await getSortedMixes();
 
   return {
     props: {
-      posts,
+      mixes,
     },
   };
 }

@@ -4,16 +4,18 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 import { DarkModeSwitch } from "react-toggle-dark-mode";
 import { useTheme } from "next-themes";
+import { getSiteMetaData } from "@utils/helpers";
+
 
 export function Layout({ children }) {
   return (
-    <div className="w-full min-h-screen dark:bg-gray-700 dark:text-white">
+    <div className="w-full min-h-screen bg-cream dark:bg-dark-blue dark:text-white">
       <div className="max-w-screen-sm px-4 py-12 mx-auto antialiased font-body">
         <Header />
         <main>{children}</main>
         <footer className="text-lg font-light">
           © {new Date().getFullYear()}, Built with{" "}
-          <a href="https://nextjs.org/">Next.js</a>
+          <a className="text-dark-red" href="https://nextjs.org/">Next.js</a>
           &#128293;
         </footer>
       </div>
@@ -25,18 +27,16 @@ const Header = () => {
   const { theme, setTheme, systemTheme } = useTheme();
   const { pathname } = useRouter();
   const [mounted, setMounted] = useState(false);
-
+  
   useEffect(() => setMounted(true), []);
 
   const toggleDarkMode = (checked) => {
-    const isDarkMode = checked;
-
-    if (isDarkMode) setTheme("dark");
+    if (checked ) setTheme("dark");
     else setTheme("light");
   };
 
   const isRoot = pathname === "/";
-  const isDarkMode = theme === "dark" || systemTheme === "dark";
+  const siteMetadata = getSiteMetaData();
 
   return (
     <header
@@ -46,45 +46,45 @@ const Header = () => {
       })}
     >
       <div className={"max-w-md"}>
-        {isRoot ? <LargeTitle /> : <SmallTitle />}
+        {isRoot ? <LargeTitle title={siteMetadata.title} /> : <SmallTitle title={siteMetadata.title} />}
       </div>
       {mounted && (
         <DarkModeSwitch
-          checked={isDarkMode}
+          checked={theme === "dark"}
           onChange={toggleDarkMode}
           className={isRoot ? 28 : 24}
         />
       )}
     </header>
-  );
+  );``
 };
 
-const LargeTitle = () => (
+const LargeTitle = ({title}) => (
   <h1>
     <Link href="/">
       <a
         className={clsx(
-          "text-3xl font-black leading-none text-black no-underline font-display",
+          "text-3xl font-black leading-none text-teal no-underline font-display",
           "sm:text-5xl",
-          "dark:text-white"
+          "dark:text-light-blue"
         )}
       >
-        Next.Js Starter Blog
+        {title}
       </a>
     </Link>
   </h1>
 );
 
-const SmallTitle = () => (
+const SmallTitle = ({title}) => (
   <h1>
     <Link href="/">
       <a
         className={clsx(
-          "text-2xl font-black text-black no-underline font-display",
-          "dark:text-white"
+          "text-2xl font-black text-teal black no-underline font-display",
+          "dark:text-light-blue"
         )}
       >
-        Next.Js Starter Blog
+        {title}
       </a>
     </Link>
   </h1>

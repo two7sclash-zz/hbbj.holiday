@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:jwplayer="http://developer.longtailvideo.com/trac/wiki/FlashFormats" version="1">
+	<trackList>
+		<track>
+			<jwplayer:title>Bright, Bright the Holly Berries</jwplayer:title>
+			<jwplayer:description>Fred Waring and The Pennsylvanians</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/01_bright_bright_the_holly_berries.m4a</jwplayer:file>
+			<jwplayer:duration>99</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Welcome Christmas</jwplayer:title>
+			<jwplayer:description>Califone</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/02_welcome_christmas.m4a</jwplayer:file>
+			<jwplayer:duration>130</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Christmas Time Is Here (alternate vocal take)</jwplayer:title>
+			<jwplayer:description>Vince Guaraldi</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/03_christmas_time_is_here_alternate_vocal_take.m4a</jwplayer:file>
+			<jwplayer:duration>89</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Warm December</jwplayer:title>
+			<jwplayer:description>Julie London</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/04_warm_december.m4a</jwplayer:file>
+			<jwplayer:duration>119</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Santa Claus, Go Straight to the Ghetto</jwplayer:title>
+			<jwplayer:description>Belle &amp; Sebastian</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/05_santa_claus_go_straight_to_the_ghetto.m4a</jwplayer:file>
+			<jwplayer:duration>206</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Child's Christmas In Wales</jwplayer:title>
+			<jwplayer:description>John Cale</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/06_childs_christmas_in_wales.m4a</jwplayer:file>
+			<jwplayer:duration>203</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Someday At Christmas (Alternate Mix)</jwplayer:title>
+			<jwplayer:description>Stevie Wonder</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/07_someday_at_christmas_alternate_mix.m4a</jwplayer:file>
+			<jwplayer:duration>173</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Dig That Crazy Santa Claus</jwplayer:title>
+			<jwplayer:description>Oscar McLollie &amp; His Honey Jumpers </jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/08_dig_that_crazy_santa_claus.m4a</jwplayer:file>
+			<jwplayer:duration>157</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>The Christmas Boogie</jwplayer:title>
+			<jwplayer:description>The Davis Sisters</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/09_the_christmas_boogie.m4a</jwplayer:file>
+			<jwplayer:duration>131</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>The Christmas Song</jwplayer:title>
+			<jwplayer:description>Jimmy Smith</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/10_the_christmas_song.m4a</jwplayer:file>
+			<jwplayer:duration>275</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>I've Got My Love To Keep Me Warm (Psapp's Lady Remix)</jwplayer:title>
+			<jwplayer:description>Les Brown And His Band Of Renown</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/11_ive_got_my_love_to_keep_me_warm_psapps_lady_remix.m4a</jwplayer:file>
+			<jwplayer:duration>181</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Another Lonely Christmas</jwplayer:title>
+			<jwplayer:description>Prince</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/12_another_lonely_christmas.m4a</jwplayer:file>
+			<jwplayer:duration>294</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Driving Home for Xmas '95</jwplayer:title>
+			<jwplayer:description>Saint Etienne</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/13_driving_home_for_xmas_95.m4a</jwplayer:file>
+			<jwplayer:duration>154</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>One Christmas Catalogue</jwplayer:title>
+			<jwplayer:description>Captain Sensible</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/14_one_christmas_catalogue.m4a</jwplayer:file>
+			<jwplayer:duration>242</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>When I Get Home For Christmas</jwplayer:title>
+			<jwplayer:description>Snow Patrol</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/15_when_i_get_home_for_christmas.m4a</jwplayer:file>
+			<jwplayer:duration>259</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Last Christmas</jwplayer:title>
+			<jwplayer:description>Erlend Oye</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/16_last_christmas.m4a</jwplayer:file>
+			<jwplayer:duration>201</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Sexy Christmas Baby Mine</jwplayer:title>
+			<jwplayer:description>morphine</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/17_sexy_christmas_baby_mine.m4a</jwplayer:file>
+			<jwplayer:duration>135</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Christmas Card From A Hooker In Minneapolis</jwplayer:title>
+			<jwplayer:description>Tom Waits</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/18_christmas_card_from_a_hooker_in_minneapolis.m4a</jwplayer:file>
+			<jwplayer:duration>275</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Santa Claus is Back in Town</jwplayer:title>
+			<jwplayer:description>Elvis Presley</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/19_santa_claus_is_back_in_town.m4a</jwplayer:file>
+			<jwplayer:duration>147</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Santa to the Moon</jwplayer:title>
+			<jwplayer:description>Sonny Cole</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/20_santa_to_the_moon.m4a</jwplayer:file>
+			<jwplayer:duration>99</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Christmas on the Moon</jwplayer:title>
+			<jwplayer:description>Troy Hess</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/21_christmas_on_the_moon.m4a</jwplayer:file>
+			<jwplayer:duration>163</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>God Is My Santa Claus</jwplayer:title>
+			<jwplayer:description>Hank Snow</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/22_god_is_my_santa_claus.m4a</jwplayer:file>
+			<jwplayer:duration>178</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Gloria (In Excelsis Deo)</jwplayer:title>
+			<jwplayer:description>The Tryfles</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/23_gloria_in_excelsis_deo.m4a</jwplayer:file>
+			<jwplayer:duration>158</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Le Twist Du Père Noël</jwplayer:title>
+			<jwplayer:description>Les Chaussettes Noires</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/24_le_twist_du_pere_noel.m4a</jwplayer:file>
+			<jwplayer:duration>120</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Thanks For Christmas</jwplayer:title>
+			<jwplayer:description>The Three Wise Men (aka XTC)</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/25_thanks_for_christmas.m4a</jwplayer:file>
+			<jwplayer:duration>234</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>The Bells Of St. Mary</jwplayer:title>
+			<jwplayer:description>Bob B Soxx And the Blue Jeans</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/26_the_bells_of_st_mary.m4a</jwplayer:file>
+			<jwplayer:duration>180</jwplayer:duration>
+		</track>
+		<track>
+			<jwplayer:title>Merry Christmas You Suckers</jwplayer:title>
+			<jwplayer:description>Paddy Roberts</jwplayer:description>
+			<jwplayer:file>../mp3/xmasMix2006/27_merry_xmas_you_suckers.m4a</jwplayer:file>
+			<jwplayer:duration>143</jwplayer:duration>
+		</track>
+	</trackList>
+</playlist>
