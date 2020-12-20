@@ -1,12 +1,2 @@
-@import 'player.css'
-
-.blur {
-  -webkit-filter: blur(5px);
-  filter: blur(5px);
-  transition: filter 500ms ease-in, -webkit-filter 500ms ease-in;
-}
-
-.blur.lazyloaded {
-  -webkit-filter: blur(0);
-  filter: blur(0);
-}
+@import './components/player.css'
+@import './components/blur.css'
