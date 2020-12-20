@@ -4,9 +4,9 @@
 
 @layer base {
   @import "./base.css";
+  @import "./player.css";
 }
 
 @layer components {
   @import "./components.css";
-  @import "./player.css";
 }
