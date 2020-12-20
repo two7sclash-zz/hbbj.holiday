@@ -40,7 +40,7 @@ export default function Post({ post, frontmatter, nextPost, previousPost }) {
      * (C) is playing
      */
     // [type `boolean`, default `false`]
-    quietUpdate: true,
+    quietUpdate: false,
   
     // Replace a new playlist with the first loaded playlist
     // instead of adding it at the end of it.
