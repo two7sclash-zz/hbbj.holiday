@@ -2,6 +2,7 @@ import { ThemeProvider } from "next-themes";
 
 import "@assets/main.css";
 import 'react-jinke-music-player/assets/index.css'
+
 import "typeface-open-sans";
 import "typeface-merriweather";
 

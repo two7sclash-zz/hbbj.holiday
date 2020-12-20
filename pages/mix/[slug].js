@@ -1,7 +1,6 @@
 import Link from "next/link";
 import ReactMarkdown from "react-markdown/with-html";
 import ReactJkMusicPlayer from '../player'
-import 'react-jinke-music-player/assets/index.css'
 import { Layout, Image, SEO, Bio } from "@components/common";
 import { getPostBySlug, getPostsSlugs } from "@utils/mixes";
 
@@ -182,6 +181,7 @@ export default function Post({ post, frontmatter, nextPost, previousPost }) {
           })}
         </ol>
         <ReactJkMusicPlayer {...options} />
+        {/* <ReactJkMusicPlayer {...options} /> */}
         <hr className="mt-4" />
         <footer>
           <Bio className="mt-8 mb-16" />
