@@ -22,6 +22,11 @@ export function SEO({ title, description = "" }) {
       />
       <link rel="icon" type="image/png" href="/static/favicon.ico" />
       <link rel="apple-touch-icon" href="/static/favicon.ico" />
+      <link rel="preload" href="https://unpkg.com/react-jinke-music-player@4.18.1/assets/index.css" as="style" />
+      <link
+      rel="stylesheet"
+      href="https://unpkg.com/react-jinke-music-player@4.18.1/assets/index.css"
+    />
     </Head>
   );
 }
