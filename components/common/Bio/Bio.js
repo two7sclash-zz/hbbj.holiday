@@ -20,7 +20,7 @@ export function Bio({ className }) {
         Compiled by <b className="font-semibold">{author.name}</b>{" "}
         {author.summary}{" "}
         <br />
-        <em><a href={`https://instgram.com/${social.instagram}`}>
+        <em><a href="https://www.instagram.com/sirlordselector/">
           Follow him on Instagram
         </a></em>
       </p>
