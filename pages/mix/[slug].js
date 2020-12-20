@@ -1,10 +1,6 @@
 import Link from "next/link";
 import ReactMarkdown from "react-markdown/with-html";
-import dynamic from 'next/dynamic'
-const ReactJkMusicPlayer = dynamic(() => import('../player'), {
-  ssr: false
-});
-import 'react-jinke-music-player/assets/index.css'
+import ReactJkMusicPlayer from '../player'
 import { Layout, Image, SEO, Bio } from "@components/common";
 import { getPostBySlug, getPostsSlugs } from "@utils/mixes";
 

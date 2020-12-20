@@ -32,9 +32,6 @@ function parse (data) {
 
                 isWaitingForLink = true;
             } else {
-                console.log("---")
-                console.log("line: ", line.toString())
-                console.log("---")
                 throw new Error('Invalid data');
             }
         }

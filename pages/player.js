@@ -1,3 +1,8 @@
-import ReactJkMusicPlayer from 'react-jinke-music-player'
+import dynamic from 'next/dynamic'
+import 'react-jinke-music-player/assets/index.css'
 
-export default ReactJkMusicPlayer
+const ReactJkMusicPlayer = dynamic(() => import('react-jinke-music-player'), {
+    ssr: false
+  });
+
+export default ReactJkMusicPlayer 

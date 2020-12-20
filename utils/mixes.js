@@ -72,7 +72,6 @@ export async function getSortedMixes() {
 
   return resolvedPosts.sort(
     (a, b) => {
-      console.log(a, b)
       return new Date(b.frontmatter.date) - new Date(a.frontmatter.date);
     }
   );
