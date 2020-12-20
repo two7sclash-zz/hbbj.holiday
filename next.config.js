@@ -1,7 +1,3 @@
-const withOptimizedImages = require("next-optimized-images");
-const withTM = require('next-transpile-modules');
+const optimizedImages = require("next-optimized-images");
 
-
-module.exports = withOptimizedImages(withTM({
-    transpileModules: ['react-jinke-music-player']
-}))
+module.exports = optimizedImages;
